@@ -5,7 +5,7 @@ date::2023-07-15
 title::Titre actualité 2
 content::Contenu de la deuxième actualité...
 date::2023-07-18
-image::
+image:https://picsum.photos/300/200
 ---
 title::Dernière nouvelle
 content::Contenu sans image
