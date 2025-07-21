@@ -1,10 +1,1 @@
-title::test
-content::test
-date::2025-07-21
-image::
----
-title::quelqu'un est mort 
-content::je crois  
-date::2025-07-22
-image::images/1000100889.png
----
+
